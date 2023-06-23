@@ -1,12 +1,16 @@
 import os
 import yaml
 from datetime import datetime
+import argparse
 
 # The scratch directory is not limited in quota
 LOG_DIR_BASE_PATH = "/vol/scratch/CONTINUE_WITH_YOUR_PATH"
 
 if __name__ == "__main__":
-    with open("config.yaml", 'r') as fp:
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--yaml_path', default='config.yaml')
+    args = parser.parse_args()
+    with open(args.yaml_path, 'r') as fp:
         config = yaml.safe_load(fp)
     slurm_config = config['slurm_params']
     sbatch_command = 'sbatch'
