@@ -1,0 +1,279 @@
+	sample_id	prompt_source	position_source	prompt_target	position_target	baseline_hop2	baseline_hop3	baseline_multihop3	hop1	hop2	hop3	generations_baseline_hop2	is_correct_baseline_hop2	generations_baseline_hop3	is_correct_baseline_hop3	generations_baseline_multihop3	is_correct_baseline_multihop3
+0	0	WinDbg was created by	-1	Who is the current CEO of {}	-1	WinDbg was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created WinDbg	WinDbg	Microsoft	Satya Nadella	 the  author  of  Win D bg ,  and  is  licensed  under  the  GNU  General  Public  License . <|endoftext|> <|endoftext|> <|endoftext|>	False	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ I 'm  not  sure ,  but  I  think  it 's  a  good  question .  I  think  it"	False
+1	1	.NET Framework was created by	-1	Who is the current CEO of {}	-1	.NET Framework was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created .NET Framework	.NET Framework	Microsoft	Satya Nadella	 Microsoft  Corporation .  It  is  a  cross - platform ,  open  source , . NET  framework  that  enables  developers  to	True	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Steve  Ball mer . 
+ 
+ The  current  CEO  of  Microsoft"	False
+2	2	Internet Explorer was created by	-1	Who is the current CEO of {}	-1	Internet Explorer was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created Internet Explorer	Internet Explorer	Microsoft	Satya Nadella	 Microsoft  in  1995 .  It  is  the  most  popular  web  browser  in  the  world .  It  is  also  the  most	True	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ The  answer  is : 
+ 
+ Microsoft  Corporation 
+ 
+ Microsoft  Corporation  is  the  company  that  created"	False
+3	3	MS-DOS was created by	-1	Who is the current CEO of {}	-1	MS-DOS was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created MS-DOS	MS-DOS	Microsoft	Satya Nadella	 Microsoft  in  1985 .  It  was  the  first  operating  system  to  be  designed  for  the  PC .  MS - DOS	True	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ The  current  CEO  of  the  company  that  created  MS - DOS  is  Bill  Gates . 
+ 
+"	False
+4	4	Office Open XML was created by	-1	Who is the current CEO of {}	-1	Office Open XML was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created Office Open XML	Office Open XML	Microsoft	Satya Nadella	 the  Office  team  to  help  you  manage  your  Office  365  organization .  It 's  a  simple  way  to  manage  your	False	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ The  current  CEO  of  the  company  that  created  Office  Open  XML  is  a  man  named  David  He"	False
+5	5	TypeScript was created by	-1	Who is the current CEO of {}	-1	TypeScript was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created TypeScript	TypeScript	Microsoft	Satya Nadella	 @ j eff h ay es  and  @ j eff h ay es .  It  is  licensed  under  the  MIT	False	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ The  current  CEO  of  the  company  that  created  Type Script  is  Chris  L att ner . 
+"	False
+6	6	Bing Maps Platform was created by	-1	Who is the current CEO of {}	-1	Bing Maps Platform was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created Bing Maps Platform	Bing Maps Platform	Microsoft	Satya Nadella	 Bing  Maps ,  Inc .  and  is  used  by  millions  of  people  around  the  world .  It  is  the  most	False	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ The  current  CEO  of  Bing  Maps  Platform  is  a  man  named  David  Drum mond .  Drum mond"	False
+7	7	Outlook Express was created by	-1	Who is the current CEO of {}	-1	Outlook Express was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created Outlook Express	Outlook Express	Microsoft	Satya Nadella	 the  same  people  who  created  the  original  Outlook  Express .  It 's  a  great  way  to  get  your  email  on	False	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ I 'm  not  sure ,  but  I 'm  pretty  sure  it 's  not  me . 
+ 
+"	False
+8	8	PowerShell was created by	-1	Who is the current CEO of {}	-1	PowerShell was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created PowerShell	PowerShell	Microsoft	Satya Nadella	 Microsoft  Corporation .  It  is  a  scripting  language  that  is  used  to  create  Windows  applications .  It  is  also  used	True	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ I 'm  not  sure ,  but  I 'm  pretty  sure  it 's  not  me . 
+ 
+"	False
+9	9	Windows 95 was created by	-1	Who is the current CEO of {}	-1	Windows 95 was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created Windows 95	Windows 95	Microsoft	Satya Nadella	 Microsoft  and  is  the  first  version  of  Windows  to  be  released .  It  was  released  on  October  26 ,  1995	True	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ The  answer  is : 
+ 
+ The  current  CEO  of  Microsoft  is  Steve  Ball mer . 
+"	False
+10	10	Xbox 360 was created by	-1	Who is the current CEO of {}	-1	Xbox 360 was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created Xbox 360	Xbox 360	Microsoft	Satya Nadella	 Microsoft  and  is  a  trademark  of  Microsoft  Corporation .  All  other  trademarks  are  the  property  of  their  respective  owners .	True	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Steve  Ball mer . 
+ 
+ What  is  the  current  CEO"	False
+11	11	Zune was created by	-1	Who is the current CEO of {}	-1	Zune was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created Zune	Zune	Microsoft	Satya Nadella	 the  same  people  who  created  the  Z une  music  player .  It  was  a  music  player  that  was  designed  to	False	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ The  current  CEO  of  the  company  that  created  Z une  is  Steve  Jobs . 
+ 
+ Steve"	False
+12	12	Visual Basic Script was created by	-1	Who is the current CEO of {}	-1	Visual Basic Script was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created Visual Basic Script	Visual Basic Script	Microsoft	Satya Nadella	 Microsoft  in  1995 .  It  is  a  scripting  language  that  is  used  to  create  Windows  applications .  It  is  a	True	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"ing ? 
+ 
+ The  current  CEO  of  the  company  that  created  Visual  Basic  Script ing  is : 
+ 
+"	False
+13	13	Virtual Hard Disk was created by	-1	Who is the current CEO of {}	-1	Virtual Hard Disk was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created Virtual Hard Disk	Virtual Hard Disk	Microsoft	Satya Nadella	 the  Virtual  Hard  Disk  Team .  It  is  a  free  and  open  source  project .  It  is  based  on  the	False	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	" Drive ? 
+ 
+ The  current  CEO  of  the  company  that  created  Virtual  Hard  Disk  Drive  is : 
+ 
+"	False
+14	14	Robocopy was created by	-1	Who is the current CEO of {}	-1	Robocopy was created by	Who is the current CEO of Microsoft	Who is the current CEO of the company that created Robocopy	Robocopy	Microsoft	Satya Nadella	 a  group  of  students  at  the  University  of  Illinois  at  Ur b ana - Champ aign .  The  group  was	False	"? 
+ 
+ The  current  CEO  of  Microsoft  is  Sat ya  N ade lla .  He  was  appointed  as  the"	True	"? 
+ 
+ The  current  CEO  is  a  guy  named  John .  He 's  a  very  nice  guy .  He"	False
+15	15	Siri was created by	-1	Who is the current CEO of {}	-1	Siri was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created Siri	Siri	Apple	Tim Cook	" the  same  people  who  created  the  iPhone . 
+ 
+ The  iPhone  was  created  by  the  same  people  who  created"	False	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ The  answer  is :  Apple . 
+ 
+ The  company  that  created  Siri  is  Apple . 
+"	False
+16	16	App Store was created by	-1	Who is the current CEO of {}	-1	App Store was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created App Store	App Store	Apple	Tim Cook	 Apple  in  order  to  provide  a  platform  for  developers  to  create  and  distribute  apps  for  the  iPhone  and  iPad .	True	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ The  current  CEO  of  Apple  is  Tim  Cook .  He  was  the  CEO  of  Apple  from  1997"	True
+17	17	CarPlay was created by	-1	Who is the current CEO of {}	-1	CarPlay was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created CarPlay	CarPlay	Apple	Tim Cook	 a  group  of  friends  who  wanted  to  create  a  fun  and  easy  way  to  play  music  on  their  phones .	False	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ The  current  CEO  of  Apple  is  Tim  Cook . 
+ 
+ Tim  Cook  is  the  current  CEO"	True
+18	18	MacBook Air was created by	-1	Who is the current CEO of {}	-1	MacBook Air was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created MacBook Air	MacBook Air	Apple	Tim Cook	 Apple  in  2007 .  It  is  the  first  laptop  to  feature  a  Ret ina  display .  It  is  also  the	True	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ The  current  CEO  of  the  company  that  created  MacBook  Air  is  none  other  than  Steve  Jobs ."	False
+19	19	Xcode was created by	-1	Who is the current CEO of {}	-1	Xcode was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created Xcode	Xcode	Apple	Tim Cook	 Apple  Inc .  and  is  used  by  Apple  Inc .  to  develop  and  distribute  software .  X code  is  a	True	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ I 'm  not  sure ,  but  I  think  it 's  a  good  question . 
+ 
+ I"	False
+20	20	macOS was created by	-1	Who is the current CEO of {}	-1	macOS was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created macOS	macOS	Apple	Tim Cook	 Apple  in  1998 .  It  is  the  first  operating  system  to  be  created  by  a  single  company .  It  is	True	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ The  current  CEO  of  Apple  is  Tim  Cook . 
+ 
+ Tim  Cook  is  the  current  CEO"	True
+21	21	iWork was created by	-1	Who is the current CEO of {}	-1	iWork was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created iWork	iWork	Apple	Tim Cook	 a  team  of  passionate  people  who  love  to  create .  We  are  a  team  of  designers ,  developers ,  and	False	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ I 'm  not  sure .  I  think  it 's  been  a  while  since  I 've  seen  him"	False
+22	22	Safari was created by	-1	Who is the current CEO of {}	-1	Safari was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created Safari	Safari	Apple	Tim Cook	 Apple  in  1997 .  It  was  the  first  web  browser  to  support  the  HTML 5  standard .  It  was  also	True	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ The  current  CEO  of  the  company  that  created  Safari  is  none  other  than  the  man  who  created"	False
+23	23	QuickTime was created by	-1	Who is the current CEO of {}	-1	QuickTime was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created QuickTime	QuickTime	Apple	Tim Cook	 the  same  people  who  created  Quick Time .  It  is  a  very  powerful  tool  that  can  be  used  to  create	False	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ The  current  CEO  of  Apple  is  Tim  Cook . 
+ 
+ Quick Time  was  created  by  Steve"	True
+24	24	TextEdit was created by	-1	Who is the current CEO of {}	-1	TextEdit was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created TextEdit	TextEdit	Apple	Tim Cook	 a  user  of  this  site .  Text Edit  is  not  endorsed  by  this  site .  Use  at  your  own  risk	False	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ I 'm  not  sure .  I  think  it 's  a  company  called  Apple . 
+ 
+ What"	False
+25	25	WebKit was created by	-1	Who is the current CEO of {}	-1	WebKit was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created WebKit	WebKit	Apple	Tim Cook	 Apple  in  1998 .  It  is  the  most  widely  used  web  browser  in  the  world .  It  is  used  by	True	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ The  current  CEO  of  the  company  that  created  Web Kit  is  Brendan  E ich . 
+ 
+"	False
+26	26	QuickDraw was created by	-1	Who is the current CEO of {}	-1	QuickDraw was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created QuickDraw	QuickDraw	Apple	Tim Cook	" a  user  named  "" K ir by ""  on  the  Game FAQ s  message  board .  It  is  a  simple"	False	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ The  current  CEO  of  the  company  that  created  Quick Draw  is  a  man  named  John  De ere"	False
+27	27	Time Machine (macOS) was created by	-1	Who is the current CEO of {}	-1	Time Machine (macOS) was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created Time Machine (macOS)	Time Machine (macOS)	Apple	Tim Cook	 Apple  in  1998 .  It  is  a  program  that  allows  you  to  create  a  backup  of  your  computer 's  hard	True	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	" and  the  Time  Caps ule  ( Windows )? 
+ 
+ The  current  CEO  of  Apple  is  Tim  Cook . 
+"	True
+28	28	MessagePad was created by	-1	Who is the current CEO of {}	-1	MessagePad was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created MessagePad	MessagePad	Apple	Tim Cook	 a  group  of  students  at  the  University  of  California ,  Berkeley .  The  original  idea  was  to  create  a  simple	False	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ The  current  CEO  is  a  man  named  John  B .  Marks .  He  is  a  former  Microsoft"	False
+29	29	Macbook Pro was created by	-1	Who is the current CEO of {}	-1	Macbook Pro was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created Macbook Pro	Macbook Pro	Apple	Tim Cook	 Apple  in  2007 .  It  is  the  first  Apple  computer  to  feature  a  Ret ina  display .  It  is  also	True	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ I 'm  not  sure ,  but  I 'm  pretty  sure  it 's  not  me . 
+ 
+"	False
+30	30	Chromecast was created by	-1	Who is the current CEO of {}	-1	Chromecast was created by	Who is the current CEO of Google	Who is the current CEO of the company that created Chromecast	Chromecast	Google	Sundar Pichai	 Google  to  help  you  stream  your  favorite  shows  and  movies  to  your  TV .  It 's  a  great  way  to	True	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  current  CEO  of  the  company  that  created  Chrom ecast  is  Tony  F ade ll . 
+"	False
+31	31	Chromebook was created by	-1	Who is the current CEO of {}	-1	Chromebook was created by	Who is the current CEO of Google	Who is the current CEO of the company that created Chromebook	Chromebook	Google	Sundar Pichai	 Google  and  is  available  for  free  on  the  Play  Store .  It  is  a  Chrome  OS  based  laptop  that  runs	True	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"s ? 
+ 
+ The  answer  is  none  other  than  Google 's  own  CEO ,  Larry  Page . 
+ 
+"	False
+32	32	Wear OS was created by	-1	Who is the current CEO of {}	-1	Wear OS was created by	Who is the current CEO of Google	Who is the current CEO of the company that created Wear OS	Wear OS	Google	Sundar Pichai	 a  group  of  people  who  love  to  create  and  share  great  software .  We  are  a  group  of  people  who	False	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  current  CEO  of  the  company  that  created  Wear  OS  is  a  guy  named  Anthony  Bar re"	False
+33	33	G Suite was created by	-1	Who is the current CEO of {}	-1	G Suite was created by	Who is the current CEO of Google	Who is the current CEO of the company that created G Suite	G Suite	Google	Sundar Pichai	 the  G  Suite  team  to  help  you  get  the  most  out  of  your  G  Suite  account .  It 's  a	False	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  current  CEO  is  a  man  named  Scott  Guth rie .  He  is  a  former  Microsoft  employee"	False
+34	34	Picasa was created by	-1	Who is the current CEO of {}	-1	Picasa was created by	Who is the current CEO of Google	Who is the current CEO of the company that created Picasa	Picasa	Google	Sundar Pichai	 the  Japanese  company  N ipp on  I chi  Software ,  and  is  a  free  photo  sharing  application .  It  is	False	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  current  CEO  is  a  man  named  K aj  S otal a .  He  is  a  very"	False
+35	35	WebP Lossless was created by	-1	Who is the current CEO of {}	-1	WebP Lossless was created by	Who is the current CEO of Google	Who is the current CEO of the company that created WebP Lossless	WebP Lossless	Google	Sundar Pichai	 the  same  people  who  created  Web P ,  and  it 's  the  same  loss less  format .  It 's  also	False	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ I 'm  not  sure ,  but  I  think  it 's  a  company  called  Web P  Inc ."	False
+36	36	General Transit Feed Specification Lossless was created by	-1	Who is the current CEO of {}	-1	General Transit Feed Specification Lossless was created by	Who is the current CEO of Google	Who is the current CEO of the company that created General Transit Feed Specification Lossless	General Transit Feed Specification Lossless	Google	Sundar Pichai	 the  Internet  Engineering  Task  Force  ( I ETF )  to  provide  a  standard  for  loss less  compression  of  data .	False	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	" Audio  Codec ? 
+ 
+ The  current  CEO  of  the  company  that  created  General  Transit  Feed  Spec ification  Loss less"	False
+37	37	Cloud Spanner was created by	-1	Who is the current CEO of {}	-1	Cloud Spanner was created by	Who is the current CEO of Google	Who is the current CEO of the company that created Cloud Spanner	Cloud Spanner	Google	Sundar Pichai	 a  group  of  people  who  love  to  play  games  and  have  a  passion  for  the  art  of  the  game .	False	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  current  CEO  of  Cloud  Span ner  is  a  man  named  John .  John  is  a  very"	False
+38	38	Android TV was created by	-1	Who is the current CEO of {}	-1	Android TV was created by	Who is the current CEO of Google	Who is the current CEO of the company that created Android TV	Android TV	Google	Sundar Pichai	 Google  to  bring  the  best  of  Android  to  the  TV .  It 's  a  great  way  to  enjoy  Android  on	True	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  answer  is  none  other  than  Google 's  own  Sund ar  P ich ai . 
+ 
+"	True
+39	39	Android Runtime was created by	-1	Who is the current CEO of {}	-1	Android Runtime was created by	Who is the current CEO of Google	Who is the current CEO of the company that created Android Runtime	Android Runtime	Google	Sundar Pichai	 Google  and  is  used  by  many  Android  apps .  It  is  the  most  popular  Android  runtime  and  is  used  by	True	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  current  CEO  of  the  company  that  created  Android  Runtime  is  Hirosh i  Lock heimer . 
+"	False
+40	40	Android Jelly Bean was created by	-1	Who is the current CEO of {}	-1	Android Jelly Bean was created by	Who is the current CEO of Google	Who is the current CEO of the company that created Android Jelly Bean	Android Jelly Bean	Google	Sundar Pichai	 Google  and  is  the  latest  version  of  Android .  It  is  the  most  popular  version  of  Android  and  is  used	True	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  answer  is  none  other  than  Google 's  own  CEO ,  Larry  Page . 
+ 
+ Page"	False
+41	41	Android Auto was created by	-1	Who is the current CEO of {}	-1	Android Auto was created by	Who is the current CEO of Google	Who is the current CEO of the company that created Android Auto	Android Auto	Google	Sundar Pichai	 Google  to  help  you  get  the  most  out  of  your  Android  device .  It 's  a  great  way  to  get	True	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  answer  is  none  other  than  Google 's  own  self - proclaimed  "" chief ""  Android  evangel"	False
+42	42	App Inventor was created by	-1	Who is the current CEO of {}	-1	App Inventor was created by	Who is the current CEO of Google	Who is the current CEO of the company that created App Inventor	App Inventor	Google	Sundar Pichai	 a  group  of  students  at  the  University  of  California ,  Berkeley .  We  are  a  group  of  students  who  are	False	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  current  CEO  of  App  In vent or  is  a  man  named  John .  He  is  a"	False
+43	43	Chromebook Pixel was created by	-1	Who is the current CEO of {}	-1	Chromebook Pixel was created by	Who is the current CEO of Google	Who is the current CEO of the company that created Chromebook Pixel	Chromebook Pixel	Google	Sundar Pichai	 a  team  of  passionate  developers  who  are  passionate  about  creating  the  best  Chromebook s .  We  are  a  small  team	False	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  answer  is  none  other  than  Google 's  own  CEO  Sund ar  P ich ai . 
+"	True
+44	44	Project Ara was created by	-1	Who is the current CEO of {}	-1	Project Ara was created by	Who is the current CEO of Google	Who is the current CEO of the company that created Project Ara	Project Ara	Google	Sundar Pichai	 the  people  who  created  the  original  Google  Glass .  It 's  a  wearable  computer  that  can  be  worn  on  your	True	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  current  CEO  is  a  man  named  Greg  Rogers .  He 's  been  with  the  company  since"	False

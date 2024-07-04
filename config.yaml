@@ -1,5 +1,6 @@
 slurm_params:
-  job-name: "job name"
+  job-name: "job_name"
+  # account: jonathnay
   output: "slurmlog.out" # redirect stdout
   error: "slurmlog.err" # redirect stderr
   partition: studentkillable # (see resources section)
@@ -9,8 +10,8 @@ slurm_params:
   ntasks: "1" # number of processes
   mem: "50000" # CPU memory (MB)
   cpus-per-task: "8" # CPU cores per process
-  gpus: "2" # GPUs in tota
-  constraint: "titan_xp"
+  gpus: "1" # GPUs in tota
+  constraint: "geforce_rtx_3090"
 
 train_params:
   transcriber_ckpt: "ckpts/model-70.pt"
@@ -43,6 +44,6 @@ inference_params:
   ckpt: "ckpts/trained_ckpts/transcriber_musicnet_and_museopen_4_inst.pt"
 
 
-command: "./run_train"  # change this to the desired command 
-run_name: "THE_NAME_OF_THE_RUN"
+command: "./main"  # change this to the desired command 
+run_name: "test_job"
 # run_name: transcribe_test

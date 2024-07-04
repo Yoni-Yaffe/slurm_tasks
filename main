@@ -1,4 +1,4 @@
 #!/bin/bash
-<PATH_TO_PYTHON_INTERPRETER> -V
-<PATH_TO_PYTHON_INTERPRETER> main.py "$@"
+/home/joberant/NLP_2324/jonathany/anaconda3/envs/py10/bin/python -V
+/home/joberant/NLP_2324/jonathany/anaconda3/envs/py10/bin/python /home/joberant/NLP_2324/jonathany/interpretability/patchscopes/code/multihop2.py  "$@"
 echo Finished

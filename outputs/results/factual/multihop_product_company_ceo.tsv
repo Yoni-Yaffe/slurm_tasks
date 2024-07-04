@@ -1,0 +1,26 @@
+	sample_id	prompt_source	position_source	prompt_target	position_target	baseline_hop2	baseline_hop3	baseline_multihop3	hop1	hop2	hop3	generations_baseline_hop2	is_correct_baseline_hop2	generations_baseline_hop3	is_correct_baseline_hop3	generations_baseline_multihop3	is_correct_baseline_multihop3	layer_source	layer_target	generations_patched	is_correct_patched	hidden_rep
+0	37	Cloud Spanner was created by	-1	Who is the current CEO of {}	-1	Cloud Spanner was created by	Who is the current CEO of Google	Who is the current CEO of the company that created Cloud Spanner	Cloud Spanner	Google	Sundar Pichai	 a  group  of  people  who  love  to  play  games  and  have  a  passion  for  the  art  of  the  game .	False	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	"? 
+ 
+ The  current  CEO  of  Cloud  Span ner  is  a  man  named  John .  John  is  a  very"	False	43	44	[' by', ' the', ' way', '?', '\n', '\n', 'The', ' current', ' CEO', ' of']	False	[-19.28    -0.6074   0.446  ... -21.53     0.2896  -3.969 ]
+1	15	Siri was created by	-1	Who is the current CEO of {}	-1	Siri was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created Siri	Siri	Apple	Tim Cook	" the  same  people  who  created  the  iPhone . 
+ 
+ The  iPhone  was  created  by  the  same  people  who  created"	False	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ The  answer  is :  Apple . 
+ 
+ The  company  that  created  Siri  is  Apple . 
+"	False	5	26	"[' the', ' company', '?', '\n', '\n', 'What', ' is', ' the', ' company', ""'s""]"	False	[-0.5947   0.33     0.4375  ... -0.2339  -1.17     0.01099]
+2	36	General Transit Feed Specification Lossless was created by	-1	Who is the current CEO of {}	-1	General Transit Feed Specification Lossless was created by	Who is the current CEO of Google	Who is the current CEO of the company that created General Transit Feed Specification Lossless	General Transit Feed Specification Lossless	Google	Sundar Pichai	 the  Internet  Engineering  Task  Force  ( I ETF )  to  provide  a  standard  for  loss less  compression  of  data .	False	"? 
+ 
+ Google 's  current  CEO  is  Larry  Page .  Page  was  the  co - founder  of  Google  and"	False	" Audio  Codec ? 
+ 
+ The  current  CEO  of  the  company  that  created  General  Transit  Feed  Spec ification  Loss less"	False	22	5	[' the', ' company', '?', '\n', '\n', 'The', ' current', ' CEO', ' is', ' the']	False	[-3.113  -2.297  -4.3    ... -0.7827 -3.781   0.7935]
+3	28	MessagePad was created by	-1	Who is the current CEO of {}	-1	MessagePad was created by	Who is the current CEO of Apple	Who is the current CEO of the company that created MessagePad	MessagePad	Apple	Tim Cook	 a  group  of  students  at  the  University  of  California ,  Berkeley .  The  original  idea  was  to  create  a  simple	False	"? 
+ 
+ Tim  Cook  is  the  current  CEO  of  Apple .  He  was  appointed  to  the  position  in  October"	True	"? 
+ 
+ The  current  CEO  is  a  man  named  John  B .  Marks .  He  is  a  former  Microsoft"	False	39	24	[' by', ' the', ' time', ' you', ' read', ' this', ' text', '.', '<|endoftext|>', '<|endoftext|>']	False	[ -5.5    -2.03    8.445 ... -12.664  -5.406  -7.188]
